@@ -5,5 +5,6 @@ using namespace std;
 //Studentnummer:
 
 int main(){
-    cout << "hello world/n";
+    cout << "Hello world!";
 }
+
